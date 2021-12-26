@@ -5,6 +5,6 @@
 - 📫 How to reach me https://twitter.com/tejani_pratik  and linkedin.com/in/pratik-tejani-753ab123
 
 <!---
-kpratik9/kpratik9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kpratik9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
